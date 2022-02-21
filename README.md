@@ -22,5 +22,5 @@
 
 ### Локальное развертывание проекта:
 
-1. Склонируйте репозиторий `https://github.com/svetlanassi/how-to-learn.git`.
+1. Склонируйте репозиторий `git clone https://github.com/svetlanassi/how-to-learn.git`.
 2. Откройте файл `index.html` в любом браузере
